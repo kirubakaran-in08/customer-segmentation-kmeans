@@ -112,9 +112,9 @@ The project successfully groups customers into six behavior-based segments and p
 ### Elbow Method
 The Elbow Method was used to evaluate the suitable number of clusters.
 
-![Elbow Method](elbow_method.png)
+![Elbow Method](Screenshot_20260913-211326.jpg)
 
 ### Customer Segmentation using K-Means and PCA
 PCA was used to visualize the customer clusters in two dimensions.
 
-![Customer Segmentation PCA](customer_segments_pca.png)
+![Customer Segmentation PCA](Screenshot_20260913-211505.jpg)
